@@ -1,2 +1,2 @@
 # docs
-Documentations
+OctopOS Prime Documentations
